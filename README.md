@@ -13,7 +13,7 @@ ng serve
 ```
 ### BackEnd
 ``` bash
-### cd backend
-### npm install
-### node server
+cd backend
+npm install
+node server
 ```
