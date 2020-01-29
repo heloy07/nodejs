@@ -10,6 +10,6 @@ then
 if you don't specify the port you can open a browser in localhost:4200
 
 to run the backend
-# cd backend
-# npm install
-# node server
+### cd backend
+### npm install
+### node server
